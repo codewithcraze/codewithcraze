@@ -2,7 +2,7 @@ Hye👋 I am Deepak Chaudhary. I am passionate <b>MERN stack maestro</b>, weavin
 
 Currently crafting digital solutions at <a href="https://snva.com"><b>SNVA TravelTech Private Limited</b></a>. With a focus on web development and a penchant for problem-solving, I thrive on turning ideas into reality through elegant code.
 
-💻 In my journey, I've honed my skills in frontend and backend development, leveraging technologies like <b>Html, CSS, JavaScript, React, Node.js, and MongoDB to build robust and scalable applications.
+💻 In my journey, I've honed my skills in frontend and backend development, leveraging technologies like <b>Html, CSS, JavaScript, React, Node.js, and MongoDB </b> to build robust and scalable applications.
 
 🌟 I'm committed to continuous learning and innovation, constantly seeking new challenges to grow and expand my expertise.
 
